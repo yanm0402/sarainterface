@@ -1,6 +1,6 @@
 # sarainterface
 
-This program is designed to process sparse matrices, offering two key functionalities:
+This program is designed to process sparse matrices by Yanming Liang, offering two key functionalities:
 
 1) Compressed Sparse Row (CSR) Conversion: Converts sparse matrices into the efficient CSR format, which significantly reduces memory usage by storing only non-zero elements and their metadata.
 2) Matrix Segmentation: For matrices exceeding hardware or memory limits, the program segments the input into smaller, square submatrices for independent processing.
