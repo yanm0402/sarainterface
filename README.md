@@ -20,11 +20,11 @@ How to Use:
 
 Compile the Program:
 
-$$$$$"gcc -o matrix_processor main.c"
+$$$$$ "gcc -o matrix_processor main.c"
 
 Run the Program with an input MTX File by replacing delaunay_n20.mtx in the main.c line 260 (fopen) with your own dataset:
 
-$$$$$"./matrix_processor
+$$$$$ "./matrix_processor"
 
 The program will:
 
