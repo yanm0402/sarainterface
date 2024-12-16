@@ -44,5 +44,5 @@ The CSR components (Values, Column Indices, Row Pointers) are saved to an output
 Customization:
 
 1) Adjust the MAX_SEGMENT_SIZE constant in the code to control the segmentation threshold.
-2) Replace delaunay_n20.mtx in the mian.c line 260 (fopen) with your own dataset in the appropriate MTX format.
+2) Replace delaunay_n20.mtx in the main.c line 260 (fopen) with your own dataset in the appropriate MTX format.
 
